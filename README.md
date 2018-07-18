@@ -40,7 +40,7 @@ Click OK
 Go to Properties at the bottom of the screen and fill in the details listed above (Name etc)
 PING and make sure it all works. 
 
-# For this tutorial I created a new project, right clicked the project, typed facet and clicked Project Facet
+For this tutorial I created a new project, right clicked the project, typed facet and clicked Project Facet
 ticked JPA clicked Further Config.
 Platform: Generic
 Type: Glassfish System Library
